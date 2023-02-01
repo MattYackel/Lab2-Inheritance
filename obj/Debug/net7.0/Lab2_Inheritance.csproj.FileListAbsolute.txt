@@ -1,0 +1,16 @@
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\bin\Debug\net7.0\Lab2_Inheritance.exe
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\bin\Debug\net7.0\employees.txt
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\bin\Debug\net7.0\Lab2_Inheritance.deps.json
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\bin\Debug\net7.0\Lab2_Inheritance.runtimeconfig.json
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\bin\Debug\net7.0\Lab2_Inheritance.dll
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\bin\Debug\net7.0\Lab2_Inheritance.pdb
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\obj\Debug\net7.0\Lab2_Inheritance.csproj.AssemblyReference.cache
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\obj\Debug\net7.0\Lab2_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\obj\Debug\net7.0\Lab2_Inheritance.AssemblyInfoInputs.cache
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\obj\Debug\net7.0\Lab2_Inheritance.AssemblyInfo.cs
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\obj\Debug\net7.0\Lab2_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\obj\Debug\net7.0\Lab2_Inheritance.dll
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\obj\Debug\net7.0\refint\Lab2_Inheritance.dll
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\obj\Debug\net7.0\Lab2_Inheritance.pdb
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\obj\Debug\net7.0\Lab2_Inheritance.genruntimeconfig.cache
+C:\Users\matty\OneDrive\School\OOP\Code\Lab2_Inheritance\obj\Debug\net7.0\ref\Lab2_Inheritance.dll
